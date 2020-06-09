@@ -1,5 +1,3 @@
-import sun.awt.www.content.image.png;
-
 public class NBody{
     //no constructor
 
